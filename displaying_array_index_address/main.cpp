@@ -10,7 +10,6 @@ int main(){
 	cout << "The value of sizeOfArray is "  << sizeOfArray << endl;
 
 	int i = 0;
-	
 
 	while(!isComplete){
 		
